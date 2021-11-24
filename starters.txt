@@ -1,2 +1,6 @@
 starters projects codes are stored here.
 second stage of experiment.
+
+new features added
+
+changed front size.
